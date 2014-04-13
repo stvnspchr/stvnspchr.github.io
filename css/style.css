@@ -1,0 +1,203 @@
+html {
+	cursor: default;
+}
+
+body {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 16px;
+    text-align: center;
+    color: black;
+    background-color: #F5F5F5;
+    overflow: hidden;
+}
+
+.wrapper {
+	margin: 0px 0px;
+	width: 100%;
+}
+
+header {
+	float: left;
+	margin: 50px 0px;
+	padding: 100px 0px 0px 0px;
+	width: 200px;
+	height: 70%;
+	border-right: 1px solid gray;
+	position: fixed;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+	cursor: default;
+	padding: 2px 4px;
+	margin: -2px -4px;
+}
+
+a:hover {
+	color: black;
+	background-color: #B0B0B0;
+	z-index: -100;
+}
+
+nav ul {
+	list-style-type: none;
+	text-align: center;
+	padding-right: 40px;
+}
+
+nav ul li a {
+	padding: 2px 8px;
+}
+
+nav ul li a:hover {
+	color: black;
+	background-color: #B0B0B0;
+}
+
+nav ul.work-nav {
+	list-style-type: none;
+	text-align: left;
+	line-height: 70%;
+	font-size: .6em;
+	margin-left: 15px;
+}
+
+nav li {
+	margin: 10px 0px;
+}
+
+nav li a {
+	color: black;
+	text-decoration: none;
+}
+
+nav li a:hover, a.current {
+	color: gray;
+}
+
+.main-content {
+	position: relative;
+	float: left;
+	padding: 20px;
+	left: 200px;
+	width: 80%;
+	max-width: 1200px;
+	min-width: 600px;
+	/*height: 100%;*/
+}
+
+.content {
+
+}
+
+section {
+	display: none;
+}
+
+section.current {
+	display: block;
+}
+
+article {
+	margin: 12% auto 50% auto;
+}
+
+article {
+	max-width: 800px;
+	overflow: auto;
+	max-height: 500px;
+	padding: 0px 15px;
+}
+
+.tab {
+	position: fixed;
+	top: 220px;
+	left: 190px;
+	display: block;
+}
+
+.tab .work-active {
+	display: block !important;
+}
+
+.tab ul {
+	list-style-type: none;
+	text-align: left;
+	line-height: 150%;
+	font-size: .6em;
+}
+
+.tab li {
+	font-size: 1.4em;
+	padding: 2px 0px;
+}
+
+.tab a.work-current {
+	color: black;
+}
+
+li a {
+	color: gray;
+	text-decoration: none;
+}
+
+.tab a:hover {
+	color: black;
+}
+
+article.writings p {
+	text-align: left;
+}
+
+article.writings p.align-right {
+	text-align: right;
+}
+
+article.writings .lines p {
+	margin: 0px;
+	text-align: center;
+}
+
+.lines {
+	margin-bottom: 20px;
+	max-width: 400px;
+	margin: 0 auto;
+}
+
+h1 {
+	font-size: 2.4em;
+	font-weight: 100; }
+h2 {
+	font-size: 2.0em;
+	font-weight: 100;
+	line-height: 1.8em;
+}
+h3 {
+	font-size: 1.8em; 
+	font-weight: 300;
+	line-height: .1em;
+}
+
+h4 {
+	font-size: 1.5em; 
+	font-weight: 300;
+	line-height: .1em;
+}
+h5 {
+	font-size: 1.0em;
+	font-weight: 300; 
+}
+
+p.role {
+	font-size: .8em;
+	font-weight: 100;
+}
+
+p.link {
+	font-size: .7em;
+	font-weight: 100;
+}
+
+
+ 
