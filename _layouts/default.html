@@ -105,16 +105,54 @@
 			<section id="writing">
 				<article>
 					<h2>Writings</h2>
-					<h4>Film & Art</h4>
-					<p><a href="/angela-schanelecs-transformative-images">Angela Schanelec’s Transformative Images</a></p>
-					<p><a href="/end-of-godardian-cinema">End of Godardian Cinema</a></p>
-					<p><a href="/what-is-art">What is Art?</a></p>
-					<h4>Water</h4>
-					<p><a href="http://plattebasintimelapse.com/08222013-1224/field-school-archaeology">Field School in Archeology</a></p>
-					<h4>Screenplays</h4>
-					<p><a href="/kitty-food">Kitty Food</a></p>
-					<p><a href="/mauis-magic-hook">Maui's Magic Hook</a></p>
-					<p><a href="/what-it-means-to-be-green">What it Means to be Green</a></p>
+					<ul>
+						<p><li><a id="schanelec" class="main-nav">Angela Schanelec's Transformative Images</a></li></p>
+						<p><li><a id="godard" class="main-nav">End of Godardian Cinema</a></li></p>
+						<p><li><a id="art" class="main-nav">What is Art?</a></li></p>
+						<p><a href="http://plattebasintimelapse.com/08222013-1224/field-school-archaeology">Field School in Archeology</a></p>
+					</ul>
+					<h5>Screenplays</h5>
+					<ul>
+						<p><li><a id="kitty" class="main-nav">Kitty Food</a></li></p>
+						<p><li><a id="maui" class="main-nav">Maui's Magic Hook</a></li></p>
+						<p><li><a id="green" class="main-nav">What it Means to be Green</a></li></p>
+					</ul>
+				</article>
+			</section>
+
+			<section id="schanelec">
+				<article class="writings">
+					{% include schanelec.html %}
+				</article>
+			</section>
+
+			<section id="godard">
+				<article class="writings">
+					{% include godard.html %}
+				</article>
+			</section>
+
+			<section id="art">
+				<article class="writings">
+					{% include art.html %}
+				</article>
+			</section>
+
+			<section id="kitty">
+				<article class="writings">
+					{% include kitty.html %}
+				</article>
+			</section>
+
+			<section id="maui">
+				<article class="writings">
+					{% include maui.html %}
+				</article>
+			</section>
+
+			<section id="green">
+				<article class="writings">
+					{% include green.html %}
 				</article>
 			</section>
 

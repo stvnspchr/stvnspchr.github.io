@@ -159,6 +159,14 @@ article.writings .lines p {
 	text-align: center;
 }
 
+#writing a {
+	color: black;
+}
+
+#writing li {
+	list-style-type: none;
+}
+
 .lines {
 	margin-bottom: 20px;
 	max-width: 400px;
