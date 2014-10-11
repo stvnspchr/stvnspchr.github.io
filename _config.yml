@@ -1,13 +1,26 @@
-title: stvnspchr
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
 
-pygments: true
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
 
-permalink: pretty
-markdown: redcarpet
+# Setup
+title:            Stvn-spchr
+tagline:          'Web Producer'
+description:      'A site about me'
+url:              http://www.stvnspchr.com
+baseurl:          /
 
-owner:
-  name: steven speicher
-  email: stevenspeicher@gmail.com
-  github: stvnspchr
-  vimeo: stvnspchr
-  instagram: stvnspchr
+author:
+  name:           'Steven Speicher'
+  url:            https://twitter.com/stvnspchr
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/stvnspchr
