@@ -1,0 +1,22 @@
+---
+layout: post
+title: Projection
+description: Let me show you what we are screening today.
+
+---  
+
+Presentation is crucial for understanding and appreciating art. Just in the same way a museum curator selects artwork to be displayed, he or she adjusts light, placement, complementary works and time for any particular exhibit. The curator creates using the physical space of the museum as the canvas and the contributing artists’ creations as the paint. A museum is a work of art in and of itself.
+
+In just the same way, knowledge is gained in progression in a form of presentation. Reading books in particular order shapes your thought process, differing if you read the first book last and the last book first or in any other permutation. The order of presentation affects your understanding and perception of the material and to digest it in another order would be to understand and perceive it in an entirely foreign way.
+
+A reel of film is physical proof of this. Each reel is a novel and each frame is a page, a word, a letter. It speaks as a whole and relies on the others, in context, to purvey meaning. Each reel is a fragment of the auteur’s vision; the theatre is the museum; and I am the curator.
+
+Let me show you what we are screening today.
+
+The darkroom’s luminance comes from a pair of 60 watts bulbs on either side of the room and an army of system-ready-LEDs from the machinery that is responsible for enlarging imagery. It is odd that such a room’s purpose is to emit exactly what it primarily lacks: light.
+
+Threading film, like editing a novel or constructing a gallery, requires precision. Each sprocket lines up in its gears, an individual frame meets the dowser. Never, more than now, do I realize that this 400 foot roll of film is made up of 6400 frames (400ft x 16fr/ft) each holding the other together in a series of splices. Cuing up a projector starts this physical narrative at 24 frames per second courtesy of a several hundred watt lamp behind it. Frame by frame the reel unfurls, progressively speeding through its many concentric circles of images, hitting a screen down below that’s been perfectly adjusted to squeeze the image into size. Too much would reveal the cinematographers blemishes and too little would withhold treasured imagery designed by the director. One element of the art of projection: A single frame can be projected in hundreds of different ways; an entire film, thousands.
+
+When a film platter isn’t available, a single projector cannot handle an entire film, further delving film projection into an art itself. Thousands of dollars are doubled and a projectionist’s patience is tested to present the second, third, fourth reel of film to the audience. Like the director over the cinematographer’s shoulder, the projectionist watches each frame over the audience’s shoulders, towards the end of a reel, waiting just for the right moment. In a snap of an eye (1ft of film x 16fr/ft x 1s/24fr), 2/3s, a punch in the top right corner of 16 frames of film makes it keenly known it’s time to start rolling the upcoming, back-timed reel of film. A short 7 seconds later, another 16 frames of film cue a changeover as projector one abruptly makes way for projector two, conveniently between scenes of the narrative, rendering the audience unaware. A smooth transition for the audience; a wave of awareness and precision for the projectionist.
+
+Without the eye and intelligence of a curator, museums and art as a shared medium wouldn’t reach a public eye in such a concise, presented way. Without the skills and artistry of a projectionist, cinema wouldn’t be viewed in a way that was to be understood by an audience; it wouldn’t be presented in a way that made sense to the eyes and ears; it wouldn’t be true to the artist who designed the images in a particular way, then given to a lab to process and a theatre to project; Don’t get me wrong, I long to construct images as well as some of the films and photos I’ve seen. Just yesterday morning I was out on a walk, Polaroid in hand, and today I started a photography class pursuing a deeper knowledge of sharing images. It’s not only about an eye for mise-en-scéne, a timing of shutter, a tangible piece of art form. It is also about presentation; and process. I look forward to working in a darkroom this summer. Both in the film lab and projection booth.

@@ -1,0 +1,196 @@
+section {
+	margin-bottom: 40px;
+}
+
+section:after, section:before{
+	content: " ";
+	display: table;
+}
+
+section:after {
+	clear: both;
+}
+
+h4 { margin-top: 0; }
+
+a:hover { 
+	color: rgba(255,255,255,.3);
+}
+
+.bold {
+	font-weight: bold;
+}
+
+.sidebar a.email:hover {
+  color: rgba(255,255,255,.6);
+}
+
+.contact-links span {
+	padding: 0 4px;
+	margin: 0 auto;
+}
+
+.contact-links i:hover {
+	color: rgba(255,255,255,.6);
+}
+
+/* GREETING */
+
+.greeting p {
+	margin-bottom: 4px;
+}
+
+.greeting h1 {
+	margin-top: 0;
+	color:#b45c4d;
+}
+
+.greeting .img-me {
+	width: 30%; 
+	float:left; 
+	margin-right: 15px;	
+}
+
+
+.greeting img {
+	margin-bottom: 0;
+
+}
+
+.img-me-aside {
+	font-size: .6em;
+	font-style: italic;
+	margin-top:0;
+}
+
+/* PORTFOLIO */
+
+.project {
+	margin-bottom: 30px;
+}
+
+.project h4{
+	text-align: center;
+}
+
+.project img {
+	border-radius: 6px;
+	border: 1px solid #ececec;
+	margin-bottom: 0;
+}
+
+.project img:hover {
+	opacity: .5;
+}
+
+.project-description {
+	font-size: .8em;
+	font-style: italic;
+	margin-top: 6px;
+}
+
+/* SKILLS */
+
+.skills h6 {
+	margin-bottom: 0;
+}
+
+.skill-level {
+	color: white;
+	background-color: #b45c4d;
+	margin-bottom: 6px;
+	padding-left: 4px;
+	font-size: .7em;
+}
+
+.skill-rank {
+	text-align:right;
+	float: right;
+	padding-right: 4px;
+}
+
+
+
+/* BLOG */
+
+.post-title a {
+	color: #b45c4d;
+}
+
+.read-more {
+	margin-bottom: 0;
+	text-align: right;
+}
+
+.post h6 {
+	font-size: .9em;
+	font-weight: normal;
+	text-align: right;
+	font-style: italic;
+}
+
+/* VIDEO */
+
+.video {
+	width: 50%;
+	float: left;
+	padding-right: 22px;
+	margin-bottom: 30px;
+}
+
+.video-description {
+	font-size: .8em;
+	font-style: italic;
+	margin-top: 6px;
+}
+
+.fluid-video-wrapper {
+	position: relative;
+	padding-bottom: 52.25%; /* 16:9 */
+	padding-top: 25px;
+	height: 0;
+}
+.fluid-video-wrapper iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+
+
+
+/* WRITING */
+.writing-nav-item {
+  display: block;
+  line-height: 1.75;
+}
+a.writing-nav-item:hover,
+a.writing-nav-item:focus,
+a.writing-nav-item.active  {
+  font-weight: bold;
+}
+
+.writing .page-description {
+	font-style: italic;
+	text-align: right;
+	font-size: .8em;
+}
+
+.writing p {
+	text-align: left;
+}
+
+.writing p.align-right {
+	text-align: right;
+}
+
+.writing .lines p {
+	margin: 20px auto;
+	text-align: left;
+	width: 50%;
+}
+
+.resume p {
+	margin-bottom: 0;
+}
