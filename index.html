@@ -1,0 +1,86 @@
+---
+layout: default
+title: Home
+---
+
+<section class="greeting">
+	<div class="img-me">
+		<img src="{{ site.assets }}me&ysh.jpg" alt="">
+		<p class="img-me-aside">This is me and my cat Ysha (iː-sha)</p>
+	</div>
+
+	<h1>Greetings!</h1>
+	<p>I live in lincoln nebraska with my wife and cat.</p>
+	<p>I produce multimedia and make web things.</p>
+	<p>I like cats, this <a target="_blank" href="http://www.youtube.com/watch?v=MFIy83PLFR8">RTS</a>, strategy board games, film and the great outdoors.</p>
+</section>
+
+<section class="portfolio">
+	<h2>Portfolio</h2>
+	{% for project in site.data.portfolio %}
+
+	{% capture portfolio_cycle %}{% cycle 'p_odd', 'p_even' %}{% endcapture %}
+	{% if portfolio_cycle == 'p_odd' %}
+		<div class="row">
+	{% endif %}
+			
+	        <div class="project col-xs-6">
+	        	<h4 class="project-title">{{ project.title }}</h4>
+	        	<a target="_blank" href="{{ project.link }}"><img src="{{ site.assets }}{{ project.image }}" alt=""></a>
+				<p class="project-description">{{ project.description }}</p>
+			</div>
+
+	{% if portfolio_cycle == 'p_even' or forloop.last %}
+		</div>
+	{% endif %}
+
+    {% endfor %}
+</section>
+
+<section class="skills">
+	<h2>Technical Skills</h2>
+	
+	{% for set in site.data.skills.sets %}
+		<h6>{{ set.set }}</h6>
+		{% for skill in set.skills %}
+			<div class="skill-level" style="width: {{ skill.level | times:10 | append:'%'}}">{{ skill.skill }} <span class="skill-rank">{{ skill.level }}</span></div>
+		{% endfor %}
+    {% endfor %}
+</section>
+
+<section class="videos">
+	<h2>Video</h2>
+	{% for video in site.data.videos %}
+
+	{% capture video_cycle %}{% cycle 'v_odd', 'v_even' %}{% endcapture %}
+	{% if video_cycle == 'v_odd' %}
+		<div class="row">
+	{% endif %}
+			
+	        <div class="video col-xs-6">
+	        	<h4 class="video-title">{{ video.title }}</h4>
+	        	<div class="fluid-video-wrapper">
+					<iframe src="{{ video.url }}" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+				</div>
+				<p class="video-description">{{ video.description }}</p>
+			</div>
+
+	{% if video_cycle == 'v_even' or forloop.last %}
+		</div>
+	{% endif %}
+
+    {% endfor %}
+</section>
+
+<section class="writings">
+	<h2>Writings</h2>
+	{% assign writings_list = site.pages %}
+      {% for node in writings_list %}
+        {% if node.title != null %}
+          {% if node.layout == "writing" %}
+			<a class="writing-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+</section>
+

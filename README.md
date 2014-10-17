@@ -1,4 +1,4 @@
 stvnspchr.github.io
 ===================
 
-Jekyll website
+Jekyll website for Steven Speicher

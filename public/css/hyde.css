@@ -56,8 +56,8 @@ html {
 .sidebar {
   text-align: center;
   padding: 2rem 1rem;
-  color: rgba(255,255,255,.5);
-  background-color: #202020;
+  color: white;
+  background-color: #b45c4d;
 }
 @media (min-width: 48em) {
   .sidebar {
@@ -90,13 +90,14 @@ html {
 .sidebar-nav-item {
   display: block;
   line-height: 1.75;
+  padding: 0 10px;
+  /*margin: 5px 0;*/
 }
 a.sidebar-nav-item:hover,
-a.sidebar-nav-item:focus {
-  text-decoration: underline;
-}
-.sidebar-nav-item.active {
-  font-weight: bold;
+a.sidebar-nav-item:focus,
+a.sidebar-nav-item.active  {
+  background-color: white;
+  color: #b45c4d;
 }
 
 /* Sticky sidebar

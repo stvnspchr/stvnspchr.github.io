@@ -1,0 +1,29 @@
+- title: A Timelapse of Nebraska Groundwater Well Production
+  description: Using data from the Nebraska Department of Natural Resources, I used TileMill to visualize the progression of groundwater development in Nebraska.
+  image: "wells.png"
+  link: http://assets.stvnspchr.com/vis/nebraska-wells
+
+- title: Flows the Nebraska
+  description:  The Platte River flows through the middle of Nebraska, the lifeline of the state, providing water for agriculture, wildlife habitat, and thirsty cities. Unlike many streams in the U.S., prairie rivers fluctaute wildly.
+  image: "flows.png"
+  link: http://assets.stvnspchr.com/vis/flows
+
+- title: Platte Basin Timelapse Website
+  description:  The Platte Basin Timelapse project aims to tell the story of our water in the heart of the continent. I did a major redesign and development of the website and lead the charge on developing journalistic quality multimedia stories for web delivery.
+  image: "pbt.png"
+  link: http://www.plattebasintimelapse.com
+
+- title: Michael Forsberg Photography Website
+  description: Mike Forsberg, a nationally respected conservation photographer, works in the heart of the Great Plains, communicating the importance of sometimes overlooked and beautiful places. Working closely with MFP staff, I developed his website and assist in implementing a digital communications strategy.
+  image: "mfp.png"
+  link: http://www.michaelforsberg.com
+
+- title: Mormon Island Panoramas
+  description: I returned to Mormon Island in central Nebraska several times a year to photograph environmental and prairie change
+  image: "mormon.png"
+  link: http://projects.plattebasintimelapse.com/mormon-diff/
+
+- title: Central Platte Irrigation Story Map
+  description: The Platte Basin Timelapse team went on a tour of Central Nebraska Public Power and Irrigation Districts facitiles and process. Using Knight Lab's StoryMap.js, I created this interactive map, following the water's journey.
+  image: "storymap.png"
+  link: http://projects.plattebasintimelapse.com/central-nebraska-irrigation/

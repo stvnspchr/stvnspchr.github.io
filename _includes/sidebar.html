@@ -1,21 +1,16 @@
 <div class="sidebar">
-  <div class="container sidebar-sticky">
+  <div class="poole-container sidebar-sticky">
+    <img src="{{ site.baseurl }}public/grass.png" alt="">
     <div class="sidebar-about">
       <h1>
         <a href="{{ site.baseurl }}">
           {{ site.title }}
         </a>
       </h1>
-      <p class="lead">{{ site.description }}</p>
     </div>
 
     <nav class="sidebar-nav">
       <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
-
-      {% comment %}
-        The code below dynamically generates a sidebar nav of pages with
-        `layout: page` in the front-matter. See readme for usage.
-      {% endcomment %}
 
       {% assign pages_list = site.pages %}
       {% for node in pages_list %}
@@ -28,6 +23,12 @@
 
     </nav>
 
-    <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
+    <div class="contact-links">
+      <span><a target="_blank" href="http://www.github.com/stvnspchr"><i class="fa fa-github fa-2x"></i></a></span>
+      <span><a target="_blank" href="http://www.instagram.com/stvnspchr"><i class="fa fa-instagram fa-2x"></i></a></span>
+      <span><a target="_blank" href="http://www.twitter.com/stvnspchr"><i class="fa fa-twitter fa-2x"></i></a></span>
+    </div>
+
+    <p><a class="email" href="mailto:stevenspeicher@gmail.com">stevenspeicher@gmail.com</a></p>
   </div>
 </div>
