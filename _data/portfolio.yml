@@ -1,3 +1,8 @@
+- title: From Mountain Snowpack to Thirsty Fields
+  description: Over the course of two production & reporting years, myself and the team at PBT developed this news app that tells the story of North Platte River irrigation, an important economic force in the Panhandle of Nebraska. <a href='https://github.com/stvnspchr/follow-the-water'>Github Repo</a>
+  image: "snowflake.jpg"
+  link: http://projects.plattebasintimelapse.com/mountains-to-fields
+
 - title: A Timelapse of Nebraska Groundwater Well Production
   description: Using data from the Nebraska Department of Natural Resources, I used TileMill to visualize the progression of groundwater development in Nebraska.
   image: "wells.png"
