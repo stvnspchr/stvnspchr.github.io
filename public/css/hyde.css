@@ -97,7 +97,7 @@ a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus,
 a.sidebar-nav-item.active  {
   background-color: white;
-  color: #b45c4d;
+  color: rgba(180,92,77, .7);
 }
 
 /* Sticky sidebar

@@ -9,7 +9,7 @@ relative_permalinks: true
 # Setup
 title:            Steven Speicher
 tagline:          'Web Producer'
-description:      'A site about me'
+description:      'web producer and designer for the <a target="_blank" href="http://www.plattebasintimelapse.com">platte basin timelapse</a> project'
 url:              http://www.stvnspchr.com
 baseurl:          /
 assets: 		  http://assets.stvnspchr.com/img/

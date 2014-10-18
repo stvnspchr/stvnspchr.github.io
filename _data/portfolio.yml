@@ -1,5 +1,5 @@
 - title: From Mountain Snowpack to Thirsty Fields
-  description: Over the course of two production & reporting years, myself and the team at PBT developed this news app that tells the story of North Platte River irrigation, an important economic force in the Panhandle of Nebraska. <a href='https://github.com/stvnspchr/follow-the-water'>Github Repo</a>
+  description: Over the course of two production & reporting years, myself and the team at the Platte Basin Timelapse project developed this news app that tells the story of North Platte River irrigation, an important economic force in the Panhandle of Nebraska. I led the development and overall visual design of the project. View the <a target="_blank" href='https://github.com/stvnspchr/follow-the-water'>Github Repo here.</a>
   image: "snowflake.jpg"
   link: http://projects.plattebasintimelapse.com/mountains-to-fields
 
@@ -9,7 +9,7 @@
   link: http://assets.stvnspchr.com/vis/nebraska-wells
 
 - title: Flows the Nebraska
-  description:  The Platte River flows through the middle of Nebraska, the lifeline of the state, providing water for agriculture, wildlife habitat, and thirsty cities. Unlike many streams in the U.S., prairie rivers fluctaute wildly.
+  description:  The Platte River flows through the middle of Nebraska, the lifeline of the state, providing water for agriculture, wildlife habitat, and thirsty cities. Unlike many streams in the U.S., prairie rivers fluctaute wildly. This visualization helps to see these changes through time.
   image: "flows.png"
   link: http://assets.stvnspchr.com/vis/flows
 
@@ -19,16 +19,16 @@
   link: http://www.plattebasintimelapse.com
 
 - title: Michael Forsberg Photography Website
-  description: Mike Forsberg, a nationally respected conservation photographer, works in the heart of the Great Plains, communicating the importance of sometimes overlooked and beautiful places. Working closely with MFP staff, I developed his website and assist in implementing a digital communications strategy.
+  description: Mike Forsberg, a nationally respected conservation photographer, works in the heart of the Great Plains, communicating the importance of sometimes overlooked and beautiful places. Working closely with Michael Forsberg Photography staff, I developed his website and assisted in implementing a digital communications strategy.
   image: "mfp.png"
   link: http://www.michaelforsberg.com
 
 - title: Mormon Island Panoramas
-  description: I returned to Mormon Island in central Nebraska several times a year to photograph environmental and prairie change
+  description: I returned to Mormon Island in central Nebraska several times a year to photograph environmental and prairie change. This tract of land carefully management by <a target="_blank" href="http://www.cranetrust.org/">The Crane Trust</a> with a rotation of grazing, fire, and rest.
   image: "mormon.png"
   link: http://projects.plattebasintimelapse.com/mormon-diff/
 
 - title: Central Platte Irrigation Story Map
-  description: The Platte Basin Timelapse team went on a tour of Central Nebraska Public Power and Irrigation Districts facitiles and process. Using Knight Lab's StoryMap.js, I created this interactive map, following the water's journey.
+  description: The Platte Basin Timelapse team went on a tour of Central Nebraska Public Power and Irrigation Districts facitiles and process. Using <a target="_blank" href="http://storymap.knightlab.com/">Knight Lab's StoryMap.js</a>, I created this interactive map, following the water's journey from reservoir to field.
   image: "storymap.png"
   link: http://projects.plattebasintimelapse.com/central-nebraska-irrigation/
