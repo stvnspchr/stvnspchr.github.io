@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Those Who Carry a Knife and a Pear are Never Afraid of the Dark
-description: Let me show you what we are screening today.
+description: An excerpt from Yann Martel's <em>Beatrice and Virgil</em>
 
 ---  
 
