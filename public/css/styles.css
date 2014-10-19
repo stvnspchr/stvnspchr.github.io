@@ -119,7 +119,7 @@ a:hover {
 
 .skill-level {
 	color: white;
-	background-color:#00647a;
+	background-color: steelblue;
 	margin-bottom: 6px;
 	padding-left: 4px;
 	font-size: .7em;
@@ -190,11 +190,6 @@ a:hover {
 .writing-nav-item {
   display: block;
   line-height: 1.75;
-}
-a.writing-nav-item:hover,
-a.writing-nav-item:focus,
-a.writing-nav-item.active  {
-  font-weight: bold;
 }
 
 .writing .page-description {
