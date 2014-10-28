@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Projection
+title: The Projection
 description: Let me show you what we are screening today.
 
 ---  

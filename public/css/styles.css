@@ -119,7 +119,7 @@ a:hover {
 
 .skill-level {
 	color: white;
-	background-color: steelblue;
+	background-color: #CA8D82;
 	margin-bottom: 6px;
 	padding-left: 4px;
 	font-size: .7em;
@@ -219,6 +219,7 @@ a:hover {
 	font-family: "Abril Fatface", serif;
 	text-align: center;
 	font-size: 2rem;
+	color: #4e4e4e;
 }
 
 .resume p {
