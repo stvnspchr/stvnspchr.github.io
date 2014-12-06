@@ -32,12 +32,12 @@ sets:
  - set: Workflow/Automation
    skills:
     - skill: Grunt
-      level: 7
+      level: 6
     - skill: Bower
-      level: 8
+      level: 7
  - set: Back-End Development
    skills:
-    - skill: Unix/Linux
-      level: 9
-    - skill: PHP/MySQL
+    - skill: Unix
       level: 6
+    - skill: PHP/MySQL
+      level: 4
