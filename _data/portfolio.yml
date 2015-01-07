@@ -2,6 +2,7 @@
   description: Over the course of two production & reporting years, myself and the team at the Platte Basin Timelapse project developed this news app that tells the story of North Platte River irrigation, an important economic force in the Nebraska Panhandle. I led the development and overall visual design of the project. View the <a target="_blank" href='https://github.com/stvnspchr/follow-the-water'>Github Repo here.</a>
   image: "snowflake.jpg"
   link: http://projects.plattebasintimelapse.com/mountains-to-fields
+  proficiencies: grunt, baking flat files into S3, data vis, teambuilding
 
 - title: A Timelapse of Nebraska Groundwater Well Production
   description: Using data from the Nebraska Department of Natural Resources, I used TileMill to visualize the progression of groundwater development in Nebraska.
@@ -12,16 +13,19 @@
   description:  The Platte River flows through the middle of Nebraska, the lifeline of the state, providing water for agriculture, wildlife habitat, and thirsty cities. Unlike many streams in the U.S., prairie rivers fluctaute wildly. This visualization helps to see these changes through time.
   image: "flows.png"
   link: http://assets.stvnspchr.com/vis/flows
+  proficiencies: basic javascript, intro to D3.js
 
 - title: Platte Basin Timelapse Website
   description:  The Platte Basin Timelapse project aims to tell the story of our water in the heart of the continent. I did a major redesign and development of the website and lead the charge on developing journalistic quality multimedia stories for web delivery.
   image: "pbt.png"
   link: http://www.plattebasintimelapse.com
+  proficiencies: PHP, Drupal, data vis, CMS for journos
 
 - title: Michael Forsberg Photography Website
   description: Mike Forsberg, a nationally respected conservation photographer, works in the heart of the Great Plains, communicating the importance of sometimes overlooked and beautiful places. Working closely with Michael Forsberg Photography staff, I developed his website and assisted in implementing a digital communications strategy.
   image: "mfp.png"
   link: http://www.michaelforsberg.com
+  proficiencies: intro to Wordpress
 
 - title: Mormon Island Panoramas
   description: I returned to Mormon Island in central Nebraska several times a year to photograph environmental and prairie change. From a series of 10 vertical images, I created these panoramas. This prairie ecosystem is critically important for migrating and resident wildlife. Hydrologically connected to the nearby Platte River, this tract of land is carefully management by <a target="_blank" href="http://www.cranetrust.org/">The Crane Trust</a> with a rotation of grazing, fire, and rest.
