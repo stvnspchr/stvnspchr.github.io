@@ -105,7 +105,6 @@ a:hover {
 
 .project img {
 	border-radius: 6px;
-	border: 1px solid #ececec;
 	margin-bottom: 0;
 }
 
@@ -116,7 +115,7 @@ a:hover {
 .project-description {
 	font-size: .8em;
 	font-style: italic;
-	margin-top: 6px;
+	margin-top: 12px;
 	margin-bottom: .4rem;
 }
 

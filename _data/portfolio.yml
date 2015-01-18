@@ -15,6 +15,12 @@
   link: http://assets.stvnspchr.com/vis/flows
   proficiencies: basic javascript, intro to D3.js
 
+- title: The 100th Meridian in Nebraska
+  description:  In the central Great Plains, the 100th meridian roughly marks the western boundary of the normal reach of moist air from the Gulf of Mexico, the boundary between the semi-arid climate to the west and the humid continental climates to the east. For a gradute level course in GIS, I visualized the distribution of landuses this straight line.
+  image: "landuse.png"
+  link: http://assets.stvnspchr.com/vis/nebraska-landuse
+  proficiencies: highcharts.js, leaflet.js
+
 - title: Platte Basin Timelapse Website
   description:  The Platte Basin Timelapse project aims to tell the story of our water in the heart of the continent. I did a major redesign and development of the website and lead the charge on developing journalistic quality multimedia stories for web delivery.
   image: "pbt.png"
