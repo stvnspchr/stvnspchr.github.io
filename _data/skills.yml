@@ -27,6 +27,8 @@ sets:
       level: 5
  - set: Frameworks
    skills:
+    - skill: Wordpress
+      level: 8
     - skill: Python (Django, Flask)
       level: 3
     - skill: Angular
