@@ -3,6 +3,8 @@ sets:
    skills:
     - skill: HTML/CSS
       level: 9
+    - skill: SASS
+      level: 8
     - skill: Javascript
       level: 8
     - skill: + Libraries (jQuery, D3.js, Backbone.js)
@@ -12,7 +14,7 @@ sets:
     - skill: ArcGIS/QGIS
       level: 8
     - skill: Leaflet.js
-      level: 7
+      level: 8
  - set: Multimedia
    skills:
     - skill: Premiere Pro
@@ -22,22 +24,22 @@ sets:
     - skill: Photoshop
       level: 8
     - skill: Illustrator
-      level: 6
+      level: 5
  - set: Frameworks
    skills:
     - skill: Python (Django, Flask)
-      level: 4
-    - skill: Angular
       level: 3
+    - skill: Angular
+      level: 2
  - set: Workflow/Automation
    skills:
     - skill: Grunt
-      level: 6
+      level: 8
     - skill: Bower
       level: 7
  - set: Back-End Development
    skills:
     - skill: Unix
-      level: 6
+      level: 7
     - skill: PHP/MySQL
-      level: 4
+      level: 6
