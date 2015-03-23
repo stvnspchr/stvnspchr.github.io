@@ -228,6 +228,10 @@ a:hover {
 
 /* RESUME */
 
+.resume {
+	position: relative;
+}
+
 .resume h1 {
 	margin-top: 20px;
 	font-family: "Abril Fatface", serif;
@@ -241,14 +245,13 @@ a:hover {
 }
 
 .resume .download {
-	postion: absolute;
-	top: 5px;
+	position: absolute;
+	top: -25px;
 	right:5px;
-	color: lightgray;
 }
 
 .resume a {
-	color: lightgray;
+	color: #bbb;
 }
 
 .resume a:hover {
