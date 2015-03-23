@@ -7,6 +7,7 @@ description: Allison and I traveled through South East Asia in the winter of 201
 
 <em>See the complete blog of our travels at <a target="_blank" href="http://www.southyshasia.com">www.southyshasia.com</a>. Last updated: March 2015.</em>
 
+
 Doi Inthanon National Park is 60 km south of Chiang Mai, inhabited by 4,500 Karen and Meo Hmong villagers. These hill tribes rely on the steep-sloped rainforests and a mix of modern and traditional agricultural practices. With the aid of a trekking guide and a couple of local Karen villagers, we spent the entire day learning about traditional foraging, herbalism, and jungle survival.
 
 ![Our guide Joc]({{ site.assets }}trekking-blog/img_3531.jpg)
