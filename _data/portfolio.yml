@@ -40,7 +40,7 @@
   proficiencies: intro to Wordpress
 
 - title: Western Confluence Magazine - Irrigation Map Design
-  description: For a story published in the University of Wyoming's <em><a href='http://www.westernconfluence.org/'>Western Confluence Magazine</a> issue 3, I designed a map showing the surface irrigated land in eastern Wyoming and western Nebraska. The map was used in both print and digital publications. See the online version of the magazine <a href='http://www.westernconfluence.org/wp-content/uploads/2015/01/western-confluence-issue-03-web.pdf'>here</a>.</em>
+  description: For a story published in the University of Wyoming's <a href='http://www.westernconfluence.org/'>Western Confluence Magazine</a> issue 3, I designed a map showing the surface irrigated land in eastern Wyoming and western Nebraska. The map was used in both print and digital publications. See the map on page 6 in the online version of the magazine <a href='http://www.westernconfluence.org/wp-content/uploads/2015/01/western-confluence-issue-03-web.pdf'>here</a>.
   image: "western-confluence.jpg"
   link: http://www.westernconfluence.org/wp-content/uploads/2015/01/western-confluence-issue-03-web.pdf
   proficiencies: QGIS, TileMill
