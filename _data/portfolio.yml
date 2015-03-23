@@ -1,8 +1,14 @@
+- title: Into the Current
+  description: The team at Platte Basin Timelapse released our second multimedia interacitve story during the annual Spring migration season in central Nebraska. The news app tells the story of a diverse group of conservation organizations working to preserve crucial habitat along the Platte River. The piece relies heavily on historic and modern satellite and aerial imagery. <a target="_blank" href='https://github.com/stvnspchr/ccp'>Github Repo here.</a>
+  image: "into-the-current.jpg"
+  link: http://projects.plattebasintimelapse.com/into-the-current
+  proficiencies: map tiles design, refined grunt workflow, design/development, social media campaign
+
 - title: From Mountain Snowpack to Thirsty Fields
   description: Over the course of two production & reporting years, myself and the team at the Platte Basin Timelapse project developed this news app that tells the story of North Platte River irrigation, an important economic force in the Nebraska Panhandle. I led the development and overall visual design of the project. View the <a target="_blank" href='https://github.com/stvnspchr/follow-the-water'>Github Repo here.</a>
   image: "snowflake.jpg"
   link: http://projects.plattebasintimelapse.com/mountains-to-fields
-  proficiencies: grunt, baking flat files into S3, data vis, teambuilding
+  proficiencies: grunt, baking flat files into S3, data vis, teambuilding, design/development
 
 - title: A Timelapse of Nebraska Groundwater Well Production
   description: Using data from the Nebraska Department of Natural Resources, I used TileMill to visualize the progression of groundwater development in Nebraska.
