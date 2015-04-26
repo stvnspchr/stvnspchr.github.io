@@ -1,3 +1,9 @@
+- title: Central Platte River Mapping Imagery
+  description: As part of the Into the Current report our team published, I developed a series of comparison graphics that helped to visual the story of landscape change and conservation effort in the central Platte valley. I worked the US Fish and Wildlife Service to acquire USGS stitched  imagery and then used ArcMap to color, compare, and render mapping tiles. The imagery was used to create slippy map tiles and still imagery for slider graphics. Stories about building <a target="_blank" href='http://projects.plattebasintimelapse.com/into-the-current/awareness/#compare-bridges-over-platte'>bridges over the Platte River</a>, <a target="_blank" href="http://projects.plattebasintimelapse.com/into-the-current/recovery/#planting-prairie">conservation efforts off-channel</a>, and <a target="_blank" href="http://projects.plattebasintimelapse.com/into-the-current/recovery/#elm-creek-complex">complex system management</a> can be found throughout the site.
+  image: "elm-creek.jpg"
+  link: http://projects.plattebasintimelapse.com/into-the-current/recovery/#elm-creek-complex
+  proficiencies: ArcMap, MapBox, TileMill, JavaScript
+
 - title: Into the Current
   description: The team at Platte Basin Timelapse released our second multimedia interactive story during the annual Spring migration in central Nebraska. This interactive tells the story of a diverse community working to conserve crucial habitat along the Platte River. The piece relies heavily on historic and modern satellite and aerial imagery. View the <a target="_blank" href='https://github.com/stvnspchr/ccp'>Github Repo here.</a>
   image: "into-the-current.jpg"
