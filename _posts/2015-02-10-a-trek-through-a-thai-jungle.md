@@ -25,28 +25,28 @@ Doi Inthanon National Park is 60 km south of Chiang Mai, inhabited by 4,500 Kare
 ![Trekking through Doi Inthanon NP]({{ site.assets }}trekking-blog/img_3746.jpg)
 ###### Trekking through the Doi Inthanon National Park. We were in the shadow of Doi Inthanon, Thailand’s highest mountain at 2,565 m (8,415 ft) most of the day.
 
-![Burning some bark]({{ site.assets }}trekking-blog/img_3626.jpg)
+![Our Karen Guides]({{ site.assets }}trekking-blog/img_3739.jpg)
 ###### Our guides were enormously knowledgable of the local flora. They regularly identified important medicinal and herbal plants, providing opportunity for smells and tastes (i.e. cinnamon, lemongrass,  agarwood,  blackboard tree).
 
-![We stop here for lunch]({{ site.assets }}trekking-blog/img_3630.jpg)
+![We stop here for lunch]({{ site.assets }}trekking-blog/img_3626.jpg)
 ###### “We stop here for lunch.” We had carried with us a few bananas, pineapple, mushrooms, eggs, chicken, pork, and a machete. All else was gathered on site.
 
-![Banana leaf cutting board]({{ site.assets }}trekking-blog/img_3641.jpg)
+![Banana leaf cutting board]({{ site.assets }}trekking-blog/img_3630.jpg)
 ###### The guides gathered large banana tree leaves, using them as cutting boards.
 
-![Bamboo spits]({{ site.assets }}trekking-blog/img_3648.jpg)
+![Bamboo spits]({{ site.assets }}trekking-blog/img_3641.jpg)
 ###### Sliced bamboo was used to create a spit, fastened with bamboo ties.
 
-![Bamboo ties]({{ site.assets }}trekking-blog/img_3645.jpg)
+![Bamboo ties]({{ site.assets }}trekking-blog/img_3648.jpg)
 ###### Bamboo is an enormously useful plant. It is edible, resiliently strong, and readily available.
 
-![Folding the satchels]({{ site.assets }}trekking-blog/img_3658.jpg)
+![Folding the satchels]({{ site.assets }}trekking-blog/img_3645.jpg)
 ###### The guides folded together several banana leaves to create a cooking vessel, used to cook the eggs and a dish created from the flower of the banana.
 
-![Banana leaf satchels]({{ site.assets }}trekking-blog/img_3679.jpg)
+![Banana leaf satchels]({{ site.assets }}trekking-blog/img_3658.jpg)
 ###### The banana leaf satchels were fastened with bamboo ties to another bamboo spit.
 
-![The rotisserie]({{ site.assets }}trekking-blog/img_3681.jpg)
+![The rotisserie]({{ site.assets }}trekking-blog/img_3679.jpg)
 ###### Within 15 minutes of arriving at our lunch spot, the guides had a fire cracking and a handcrafted rotisserie.
 
 ![Allison's frield]({{ site.assets }}trekking-blog/img_3681.jpg)

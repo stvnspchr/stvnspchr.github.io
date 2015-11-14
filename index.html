@@ -16,7 +16,7 @@ title: Home
 </section> -->
 
 <section class="portfolio">
-	<h2>Stuff I've Coded</h2>
+	<h2>Things I've Coded</h2>
 	{% for project in site.data.portfolio %}
 
 	{% capture portfolio_cycle %}{% cycle 'p_odd', 'p_even' %}{% endcapture %}
@@ -45,10 +45,10 @@ title: Home
 	<h2>Videos I've Produced</h2>
 	{% for video in site.data.videos %}
 
-	{% capture video_cycle %}{% cycle 'v_odd', 'v_even' %}{% endcapture %}
-	{% if video_cycle == 'v_odd' %}
-		<div class="row">
-	{% endif %}
+		{% capture video_cycle %}{% cycle 'v_odd', 'v_even' %}{% endcapture %}
+		{% if video_cycle == 'v_odd' %}
+			<div class="row">
+		{% endif %}
 			
 	        <div class="video col-xs-6">
 	        	<h4 class="video-title">{{ video.title }}</h4>
@@ -58,9 +58,9 @@ title: Home
 				<p class="video-description">{{ video.description }}</p>
 			</div>
 
-	{% if video_cycle == 'v_even' or forloop.last %}
-		</div>
-	{% endif %}
+		{% if video_cycle == 'v_even' or forloop.last %}
+			</div>
+		{% endif %}
 
     {% endfor %}
 </section>
