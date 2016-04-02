@@ -1,15 +1,13 @@
 # Dependencies
-markdown:         redcarpet
 highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
 
 # Setup
 title:            Steven Speicher
 tagline:          'Front End Developer'
-description:      'web dev at <a target="_blank" href="http://uw.edu">UW</a>, previously in Nebraska on <a target="_blank" href="http://www.plattebasintimelapse.com">PBT</a>'
+description:      'Front End Dev at <a target="_blank" href="http://uw.edu">University of Washington</a>'
 url:              http://www.stvnspchr.com
 baseurl:          /
 assets: 		  http://assets.stvnspchr.com/img/

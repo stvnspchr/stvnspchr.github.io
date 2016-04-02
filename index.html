@@ -3,20 +3,18 @@ layout: default
 title: Home
 ---
 
-<!-- <section class="greeting">
+<section class="greeting">
 	<div class="img-me">
-		<img src="{{ site.assets }}me&ysh.jpg" alt="">
-		<p class="img-me-aside">This is me and my cat Ysha (iː-sha)</p>
+		<img src="{{ site.assets }}stvn.jpg" alt="Steven Speicher">
 	</div>
 
 	<h1>Greetings!</h1>
-	<p>I live in lincoln nebraska with my wife and cat.</p>
-	<p>I produce multimedia and make web things.</p>
-	<p>I like cats, this <a target="_blank" href="http://www.youtube.com/watch?v=MFIy83PLFR8">RTS</a>, strategy board games, film and the great outdoors.</p>
-</section> -->
+	<p>I'm currently living in sunny Seattle with my wife and cat. I help make the internet for the University of Washington's Marketing and Communications team.</p>
+	<p>Previously, I was with Nebraska's NPR & PBS station on the <a target="_blank" href="http://www.plattebasintimelapse.com">Platte Basin Timelapse</a> project.</p>
+</section>
 
 <section class="portfolio">
-	<h2>Things I've Coded</h2>
+	<h2>Sites I've Coded</h2>
 	{% for project in site.data.portfolio %}
 
 	{% capture portfolio_cycle %}{% cycle 'p_odd', 'p_even' %}{% endcapture %}
@@ -27,11 +25,6 @@ title: Home
 	        <div class="project col-xs-6">
 	        	<h4 class="project-title">{{ project.title }}</h4>
 	        	<a target="_blank" href="{{ project.link }}"><img src="{{ site.assets }}{{ project.image }}" alt=""></a>
-				<p class="project-description">{{ project.description }}</p>
-
-				{% if project.proficiencies %}
-					<p class="project-proficiencies">Proficiencies: {{ project.proficiencies }}</p>
-				{% endif %}
 			</div>
 
 	{% if portfolio_cycle == 'p_even' or forloop.last %}
@@ -76,16 +69,5 @@ title: Home
         {% endif %}
       {% endfor %}
       <a class="writing-nav-item" href="http://plattebasintimelapse.com/02222014-1124/field-school-archaeology">Field School in Archaeology</a>
-</section>
-
-<section class="skills">
-	<h2>Things I Can Do</h2>
-	
-	{% for set in site.data.skills.sets %}
-		<h6>{{ set.set }}</h6>
-		{% for skill in set.skills %}
-			<div class="skill-level" style="width: {{ skill.level | times:10 | append:'%'}}">{{ skill.skill }} <span class="skill-rank">{{ skill.level }}</span></div>
-		{% endfor %}
-    {% endfor %}
 </section>
 

@@ -1,3 +1,15 @@
+- title: University of Washingon Human Resources
+  description:  The Platte Basin Timelapse project aims to tell the story of our water in the heart of the continent. I outlined and proposed a move to WordPress CMS, designed and developed the theme, trained journalists on publishing for the web, and contributed to reporting and design/development efforts with data visualizations and multimedia stories.
+  image: "uwhr.jpg"
+  link: #
+  proficiencies: 
+
+- title: Onboarding for New University of Washington Employees
+  description:  The Platte Basin Timelapse project aims to tell the story of our water in the heart of the continent. I outlined and proposed a move to WordPress CMS, designed and developed the theme, trained journalists on publishing for the web, and contributed to reporting and design/development efforts with data visualizations and multimedia stories.
+  image: "oneuw.jpg"
+  link: #
+  proficiencies: 
+
 - title: Platte Basin Timelapse Website
   description:  The Platte Basin Timelapse project aims to tell the story of our water in the heart of the continent. I outlined and proposed a move to WordPress CMS, designed and developed the theme, trained journalists on publishing for the web, and contributed to reporting and design/development efforts with data visualizations and multimedia stories.
   image: "pbt.png"
@@ -32,7 +44,6 @@
   image: "swifts.png"
   link: http://swifts.michaelforsberg.com/
   proficiencies: WordPress, Video, Photography, Citizen Science
-
 
 - title: Flows in Nebraska
   description:  The Platte River flows through the middle of Nebraska, the lifeline of the state, providing water for agriculture, wildlife habitat, and thirsty cities. Unlike many streams in the U.S., prairie rivers fluctuate wildly. This visualization helps to see these changes through time.
