@@ -9,7 +9,7 @@ title: Home
 	</div>
 
 	<h1>Greetings!</h1>
-	<p>I'm currently living in sunny Seattle with my wife and cat. I help make the internet for the University of Washington's Marketing and Communications team.</p>
+	<p>I'm currently living in sunny Seattle with my wife and cat. I help make the Internet for the University of Washington's Marketing and Communications team.</p>
 	<p>Previously, I was with Nebraska's NPR & PBS station on the <a target="_blank" href="http://www.plattebasintimelapse.com">Platte Basin Timelapse</a> project.</p>
 </section>
 
@@ -22,10 +22,10 @@ title: Home
 		<div class="row">
 	{% endif %}
 			
-	        <div class="project col-xs-6">
-	        	<h4 class="project-title">{{ project.title }}</h4>
-	        	<a target="_blank" href="{{ project.link }}"><img src="{{ site.assets }}{{ project.image }}" alt=""></a>
-			</div>
+        <div class="project col-xs-6">
+        	<h4 class="project-title">{{ project.title }}</h4>
+        	<a target="_blank" href="{{ project.link }}"><img src="{{ site.assets }}{{ project.image }}" alt=""></a>
+		</div>
 
 	{% if portfolio_cycle == 'p_even' or forloop.last %}
 		</div>
