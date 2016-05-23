@@ -14,7 +14,7 @@ title: Home
 </section>
 
 <section class="portfolio">
-	<h2>Sites I've Coded</h2>
+	<h2>Portfolio</h2>
 	{% for project in site.data.portfolio %}
 
 	{% capture portfolio_cycle %}{% cycle 'p_odd', 'p_even' %}{% endcapture %}
@@ -45,7 +45,7 @@ title: Home
 </section>
 
 <section class="videos">
-	<h2>Videos I've Produced</h2>
+	<h2>Video</h2>
 	{% for video in site.data.videos %}
 
 		{% capture video_cycle %}{% cycle 'v_odd', 'v_even' %}{% endcapture %}
@@ -69,7 +69,7 @@ title: Home
 </section>
 
 <section class="writings">
-	<h2>Pieces I've Written</h2>
+	<h2>Writing</h2>
 	{% assign writings_list = site.pages %}
       {% for node in writings_list %}
         {% if node.title != null %}
