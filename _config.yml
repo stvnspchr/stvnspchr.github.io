@@ -1,10 +1,7 @@
-# Permalinks
-permalink:        pretty
-
 # Setup
 title:            Steven Speicher
-tagline:          'Front End Developer'
-description:      'Front End Dev at <a target="_blank" href="http://uw.edu">University of Washington</a>'
+tagline:          'Software Engineer'
+description:      'Front End Engineer at <a target="_blank" href="http://seattletimes.com">Seattle Times</a>'
 url:              http://www.stvnspchr.com
 baseurl:          /
 assets: 		  http://assets.stvnspchr.com/img/
