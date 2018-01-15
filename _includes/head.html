@@ -7,7 +7,7 @@
   <meta name="author" content="Steven Speicher">
 
   <title>
-    {% if page.title == "Home" %}   
+    {% if page.title == "Home" %}
       {{ site.title }} &middot; {{ site.tagline }}
     {% else %}
       {{ page.title }} &middot; {{ site.title }}
@@ -15,15 +15,15 @@
   </title>
 
   <!-- CSS -->
-  <link rel="stylesheet" href="{{ site.baseurl }}public/css/poole.css">
-  <link rel="stylesheet" href="{{ site.baseurl }}public/css/hyde.css">
-  <link rel="stylesheet" href="{{ site.baseurl }}public/css/styles.css">
-  <link rel="stylesheet" href="{{ site.baseurl }}public/css/bootstrap.css">
+  <link rel="stylesheet" href="{{ '/' | relative_url }}public/css/poole.css">
+  <link rel="stylesheet" href="{{ '/' | relative_url }}public/css/hyde.css">
+  <link rel="stylesheet" href="{{ '/' | relative_url }}public/css/styles.css">
+  <link rel="stylesheet" href="{{ '/' | relative_url }}public/css/bootstrap.css">
 
-  <link rel="stylesheet" href="{{ site.baseurl }}public/fonts/font-awesome.min.css">
+  <link rel="stylesheet" href="{{ '/' | relative_url }}public/fonts/font-awesome.min.css">
 
   <!-- Icons -->
-  <link rel="icon" href="{{ site.baseurl }}public/favicon.ico">
+  <link rel="icon" href="{{ '/' | relative_url }}public/favicon.ico">
 
   <!-- RSS -->
   <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
