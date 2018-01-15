@@ -1,19 +1,25 @@
 - title: The Seattle Times
-  description: 
+  description:
   image: "st.jpg"
   link: http://www.seattletimes.com/
   proficiencies:
 
+- title: The Seattle Times Planning Tool
+  description:
+  image: "st-planning.jpg"
+  proficiencies:
+  note: Open to ST employees only
+
 - title: University of Washingon Human Resources
-  description: 
+  description:
   image: "uwhr.jpg"
   link: http://hr.uw.edu
   proficiencies:
 
 - title: Onboarding for New University of Washington Employees
-  description: 
+  description:
   image: "oneuw.jpg"
-  proficiencies: 
+  proficiencies:
   note: Open to UW employees only
 
 - title: Platte Basin Timelapse Website
