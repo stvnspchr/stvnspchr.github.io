@@ -54,7 +54,7 @@ h4 { margin-top: 0; }
 
 img { width: 100%; }
 
-a:hover { 
+a:hover {
 	color: rgba(180,92,77, .6);
 }
 
@@ -79,9 +79,9 @@ a:hover {
 }
 
 .greeting .img-me {
-	width: 30%; 
-	float:left; 
-	margin-right: 15px;	
+	width: 20%;
+	float:left;
+	margin-right: 15px;
 }
 
 
