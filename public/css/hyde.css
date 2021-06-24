@@ -76,6 +76,10 @@ html {
 }
 
 /* About section */
+.sidebar-about {
+  margin-bottom: 3rem;
+}
+
 .sidebar-about h1 {
   color: #fff;
   margin-top: 0;

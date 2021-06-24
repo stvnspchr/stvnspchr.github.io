@@ -1,24 +1,36 @@
+- title: NYT Games
+  description:
+  image: "nyt-games.png"
+  link: https://nytimes.com/crosswords
+  proficiencies:
+
+- title: NYT Parenting
+  description:
+  image: "parenting-publisher-hp.jpeg"
+  proficiencies:
+  note: Product was moved to a new NYT desk
+
 - title: The Seattle Times
   description:
-  image: "st.jpg"
+  image: "st.jpeg"
   link: http://www.seattletimes.com/
   proficiencies:
 
 - title: The Seattle Times Planning Tool
   description:
-  image: "st-planning.jpg"
+  image: "st-planning.jpeg"
   proficiencies:
   note: Open to ST employees only
 
 - title: University of Washingon Human Resources
   description:
-  image: "uwhr.jpg"
+  image: "uwhr.jpeg"
   link: http://hr.uw.edu
   proficiencies:
 
 - title: Onboarding for New University of Washington Employees
   description:
-  image: "oneuw.jpg"
+  image: "oneuw.jpeg"
   proficiencies:
   note: Open to UW employees only
 
@@ -30,13 +42,13 @@
 
 - title: Into the Current
   description: The team at Platte Basin Timelapse released our second multimedia interactive story during the annual Spring migration in central Nebraska. This interactive tells the story of a diverse community working to conserve crucial habitat along the Platte River. The piece relies heavily on historic and modern satellite and aerial imagery. View the <a target="_blank" href='https://github.com/stvnspchr/ccp'>Github Repo here.</a>
-  image: "into-the-current.jpg"
+  image: "into-the-current.jpeg"
   link: http://projects.plattebasintimelapse.com/into-the-current
   proficiencies: map tiles design, refined grunt workflow, design/development, social media campaign
 
 - title: From Mountain Snowpack to Thirsty Fields
   description: Over the course of two production & reporting years, myself and the team at the Platte Basin Timelapse project developed this news app that tells the story of North Platte River irrigation, an important economic force in the Nebraska Panhandle. I led the development and overall visual design of the project. View the <a target="_blank" href='https://github.com/stvnspchr/follow-the-water'>Github Repo here.</a>
-  image: "snowflake.jpg"
+  image: "snowflake.jpeg"
   link: http://projects.plattebasintimelapse.com/mountains-to-fields
   proficiencies: grunt, baking flat files into S3, data vis, teambuilding, design/development
 
@@ -47,6 +59,6 @@
 
 - title: Central Platte River Mapping Imagery
   description: As part of the Into the Current report our team published, I developed a series of comparison graphics that helped to visual the story of landscape change and conservation effort in the central Platte valley. I worked the US Fish and Wildlife Service to acquire USGS stitched  imagery and then used ArcMap to color, compare, and render mapping tiles. The imagery was used to create slippy map tiles and still imagery for slider graphics. Stories about building <a target="_blank" href='http://projects.plattebasintimelapse.com/into-the-current/awareness/#compare-bridges-over-platte'>bridges over the Platte River</a>, <a target="_blank" href="http://projects.plattebasintimelapse.com/into-the-current/recovery/#planting-prairie">conservation efforts off-channel</a>, and <a target="_blank" href="http://projects.plattebasintimelapse.com/into-the-current/recovery/#elm-creek-complex">complex system management</a> can be found throughout the site.
-  image: "elm-creek.jpg"
+  image: "elm-creek.jpeg"
   link: http://projects.plattebasintimelapse.com/into-the-current/recovery/#elm-creek-complex
   proficiencies: ArcMap, MapBox, TileMill, JavaScript
