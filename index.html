@@ -4,42 +4,54 @@ title: Home
 ---
 
 <section class="greeting">
-	<div class="img-me">
-		<img src="{{ site.assets }}me-n-ysh.jpg" alt="Steven Speicher">
-	</div>
-
 	<h1>Greetings!</h1>
-	<p>I am currently living in sunny Seattle with my wife and cat. I work on The New York Times' Technology team helping to build products that grow news subscriptions.</p>
-	<p>Previously, I was with The Seattle Times, University of Washington Marketing & Communications, and Nebraska's NPR & PBS station.</p>
+	<p>Steven is a web engineer living in sunny Seattle with his wife, son, and cat. He works at The New York Times helping to build products that grow subscription value.</p>
+	<p>Previously, he was with The Seattle Times, University of Washington Marketing & Communications, and Nebraska's NPR & PBS station.</p>
 </section>
 
-<section class="portfolio">
-	<h2>Work</h2>
-	{% for project in site.data.portfolio %}
+<hr>
 
-	{% capture portfolio_cycle %}{% cycle 'p_odd', 'p_even' %}{% endcapture %}
-	{% if portfolio_cycle == 'p_odd' %}
-		<div class="row">
-	{% endif %}
-
-        <div class="project col-xs-6">
-        	<h4 class="project-title">{{ project.title }}</h4>
-        	{% if project.link %}
-				<a class="project-link" target="_blank" href="{{ project.link }}">
-        	{% endif %}
-        	<img class="project-img" src="{{ site.assets }}{{ project.image }}" alt="">
-        	{% if project.link %}
-				</a>
-        	{% endif %}
-
-        	{% if project.note %}
-				<p class="project-proficiencies" style="margin-top: 4px; text-align:right;">{{project.note}}</p>
-        	{% endif %}
-		</div>
-
-	{% if portfolio_cycle == 'p_even' or forloop.last %}
-		</div>
-	{% endif %}
-
-    {% endfor %}
+<section class="resume">
+  <h2>Experience</h2>
+      
+  <p><span class="bold" style="font-size: 1.1rem;">Senior Software Engineer</span>, The New York Times, Oct'18 - present</p>
+  <ul>
+      <li>Engineer new products that grow subscription revenue and value for existing subscribers</li>
+  </ul>
+      
+  <p><span class="bold" style="font-size: 1.1rem;">Software Engineer</span>, The Seattle Times, Aug'16 - Oct1'18</p>
+  <ul>
+      <li>Lead front-end development for a single-page application newsroom planning tool </li>
+      <li>Engineer a dashboard for seattletimes.com admins to manage creation/display of reader-facing messages</li>
+      <li>Research, document, and engineer a seattletimes.com paywall rebuild including dynamic metering that helped to increase subscription rates</li>
+      <li>Identify and implement site performance improvements to reduce start render times from three seconds to less than two seconds</li>
+      <li>Evangelize and develop company-wide UI pattern library</li>
+      <li>Encourage team-wide engineering best practices, code reviews, and documentation</li>
+      <li>Participate and advocate for team and individual processes during Scrum ceremonies</li>
+  </ul>
+  
+  <p><span class="bold" style="font-size: 1.1rem;">Front End Developer</span>, University of Washington, July'15 - Aug'16</p>
+  <ul>
+      <li>Architect, design, and build a fresh hr.uw.edu and CMS</li>
+      <li>Liaise as lead development expert to project teams and stakeholders</li>
+      <li>Organize and present at UW’s front-end “Community of Practice”</li>
+      <li>Implement and rigorously test site UX, performance, and accessibility</li>
+  </ul>
+  
+  <p><span class="bold" style="font-size: 1.1rem;">Web Developer</span>, Nebraska's NPR, Aug'12 - July'15</p>
+  <ul>
+      <li>Design and develop interactive web experiences</li>
+      <li>Re-design website and custom WordPress development</li>
+      <li>Automate workflow for management of 4TB+ of imagery</li>
+      <li>Manage a team of 4-6 student interns and production assistants</li>
+      <li>Present project mission and work to general public and expert audiences</li>
+  </ul>
+  
+  <h2>Education</h2>
+  
+  <p><span class="bold">Bachelor of Arts</span> / University of Nebraska – Lincoln, 2012</p>
+  <p>Majors: Environmental Studies & Film Studies; Minor: Mathematics</p>
+  <p class="gray" style="font-size: .9rem;"><em>Additional Areas of Study: Computer Science (2 yrs) & Journalism (2 yrs)</em></p>
+  
 </section>
+  
